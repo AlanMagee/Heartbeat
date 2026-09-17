@@ -1,0 +1,8 @@
+# Arduino IDE build output and local editor settings
+build/
+*.elf
+*.bin
+*.hex
+.vscode/
+.idea/
+.DS_Store
